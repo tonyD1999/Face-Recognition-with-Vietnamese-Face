@@ -9,6 +9,7 @@
 * ![](https://i.imgur.com/YqtWBIa.png)
 
 Link for dataset: [VN-Celeb](https://viblo.asia/p/vn-celeb-du-lieu-khuon-mat-nguoi-noi-tieng-viet-nam-va-bai-toan-face-recognition-Az45bG9VKxY)
+
 **BKStudent (testing)**
 * This dataset consists of 536 images of 268 people (2 face images/person) in HCMUT. The first image will be augmented into five images and considered as images in the database.  The second image will be considered as the checking face.  This dataset is used fortesting our model.
 
