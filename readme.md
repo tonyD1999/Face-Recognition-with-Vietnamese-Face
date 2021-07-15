@@ -1,5 +1,5 @@
 # Face Recognition Vietnamese Face
-
+> If you need pickle files or have any questions, you can contact me via email: duc.nguyensy1999@gmail.com
 ## Dataset
 
 **VN-celeb (training)**
